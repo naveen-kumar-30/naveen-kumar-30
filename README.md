@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @naveen-kumar-30
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-naveen-kumar-30/naveen-kumar-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Naveen Kumar P  
+👀 I’m interested in web development, open-source projects, and cloud computing  
+🌱 I’m currently learning React and Java  
+💞️ I’m looking to collaborate on full-stack web apps and open-source communities  
+📫 How to reach me: naveenkumarp3052004@gmail.com 
+😄 Pronouns: he/him  
+⚡ Fun fact: I enjoy working on projects late at night when I’m most productive  
